@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AA Marketing Solutions</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fff;
+      color: #222;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .container {
+      max-width: 480px;
+      width: 100%;
+      padding: 20px;
+      box-sizing: border-box;
+      text-align: center;
+    }
+    img.logo {
+      max-width: 150px;
+      margin: 20px auto;
+    }
+    h1 { margin: 0; color: #0A1E9C; /* dark blue */ }
+    p.intro { margin: 10px 0 30px; color: #333; }
+    a.btn {
+      display: block;
+      background: #0A1E9C;
+      color: white;
+      text-decoration: none;
+      margin: 12px 0;
+      padding: 14px 0;
+      border-radius: 6px;
+      font-size: 18px;
+    }
+    hr { margin: 30px 0; border-color: #ddd; }
+    .contact { font-size: 14px; color: #555; }
+    .contact a { color: #0A1E9C; text-decoration: none; }
+    .footer { margin: 40px 0 20px; font-size: 12px; color: #aaa; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img class="logo" src="https://your-server.com/AA-Logo.png" alt="AA Marketing Solutions">
+    <h1>AA Marketing Solutions</h1>
+    <p class="intro">
+      We help small businesses grow online through social media, ads, SEO, websites & email campaigns.
+    </p>
+
+    <a class="btn" href="https://m.me/aamarketingsolutions" target="_blank">📱 Social Media Management</a>
+    <a class="btn" href="https://m.me/aamarketingsolutions" target="_blank">🎯 Facebook & Instagram Ads</a>
+    <a class="btn" href="https://m.me/aamarketingsolutions" target="_blank">🔍 Google Ads (PPC)</a>
+    <a class="btn" href="https://m.me/aamarketingsolutions" target="_blank">📍 Local SEO</a>
+    <a class="btn" href="https://m.me/aamarketingsolutions" target="_blank">🖥️ Website & Landing Pages</a>
+    <a class="btn" href="https://m.me/aamarketingsolutions" target="_blank">✉️ Email Marketing</a>
+
+    <hr>
+
+    <div class="contact">
+      ✉️ <a href="mailto:info@aamarketingsolutions.com">Email Us</a> &nbsp; • &nbsp;
+      💬 <a href="https://m.me/aamarketingsolutions" target="_blank">Message on Facebook</a>
+    </div>
+
+    <div class="footer">
+      Made by AA Marketing Solutions • 2025
+    </div>
+  </div>
+</body>
+</html>
